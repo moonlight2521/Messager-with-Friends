@@ -12,3 +12,8 @@
 .messages{
     text-align: center;
 }
+body {
+    color:white;
+    background-image: url("maxresdefault.jpg");
+    /* background-color: #cccccc; */
+ }
