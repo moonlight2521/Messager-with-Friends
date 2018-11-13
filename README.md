@@ -1,2 +1,2 @@
 # Messager-with-Friends
-full stack web app with backend database using mongoDB
+Full stack web app with backend database using mongoDB
