@@ -2,4 +2,4 @@
 Full stack web app with backend database using mongoDB
 
 # Screenshots
-![](Screen Recording.gif)
+![](Screen%20Recording.gif)
